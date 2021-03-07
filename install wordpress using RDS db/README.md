@@ -2,7 +2,7 @@
 
 <p>Inthis blog, I am going to integrate WordPress with Amazon RDS. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching, and backups. It frees you to focus on your applications so you can give them the fast performance, high availability, security, and compatibility they need.</p>
 
-![](img/intro.png)
+![](img/intro.gif)
 
 ## What is DataBase :
 <p>A database is an organized collection of data so that it can be easily accessed and managed. You can organize data into tables, rows, columns, and index it to make it easier to find relevant information. Database handlers create a database in such a way that only one set of software programs provides access to data to all the users.</p>
